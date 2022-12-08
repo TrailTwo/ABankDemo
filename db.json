@@ -1,9 +1,9 @@
 [
-	1234: {
+	first: {
 		prop1: true,
 		prop2: 12345
 	},
-	5678: {
+	second: {
 		prop1: true,
 		prop2: 12345
 	}
