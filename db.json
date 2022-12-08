@@ -1,10 +1,10 @@
 [
-	first: {
-		prop1: true,
-		prop2: 12345
+	{
+		"prop1": true,
+		"prop2": 12345
 	},
-	second: {
-		prop1: true,
-		prop2: 12345
+	{
+		"prop1": true,
+		"prop2": 12345
 	}
 ]
